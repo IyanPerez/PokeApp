@@ -37,5 +37,5 @@
         text-align: center;
  }
 }
-
+</style>
 
