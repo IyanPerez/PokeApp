@@ -16,6 +16,13 @@
   
   *{
     width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    vertical-align: baseline;
+
   }
   div{
     background: linear-gradient(
@@ -37,5 +44,15 @@
         text-align: center;
  }
 }
+
+nav{
+  display: flex;  
+}
+
+a {
+  display: flex;
+  width: auto;
+}
+
 </style>
 
